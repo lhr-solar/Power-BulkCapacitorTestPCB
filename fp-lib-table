@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BCT")(type "KiCad")(uri "${KIPRJMOD}/Bulk-Capacitor-Test-lib/BCT.pretty")(options "")(descr ""))
+)
